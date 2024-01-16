@@ -353,3 +353,126 @@ font-style: normal;
 font-weight: 400;
 line-height: 26px; /* 162.5% */
 }
+
+.input{
+    /* border: 2px solid red; */
+    display: block;
+    
+    width: 393px;
+    height: 52px;
+    margin-left: 50px;
+    border-radius: 8px;
+background: rgba(19, 19, 24, 0.05);
+margin-top: 15px;
+
+    
+}
+.btn4{
+    margin-top: 15px;
+    display: block;
+    
+    width: 400px;
+    height: 52px;
+    margin-left: 50px;
+    border-radius: 8px;
+background: #FF5400;
+}
+.ban-img1{
+    display: block;
+    margin-left: 60px;
+    margin-right: 10px;
+    width: 60%;
+}
+.banner3{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 4px;
+    width:100%;
+    margin-top: 20px;
+}
+.text8{
+    margin-left: 50px;
+    color: #131318;
+font-family: Mulish;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.text9{
+    margin-left: 50px;
+    color: #5A5A5D;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+.section{
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+  
+    width: 40%;
+    gap: 4px;
+    margin-left: 60px;
+}
+.btn5{
+    
+    padding: -40px;
+    width: 300px;
+height: 130px;
+transform: rotate(-19.628deg);
+
+border-radius: 16px;
+background: #FF5400;
+margin-left: 190%;
+
+/* margin-bottom: 80px; */
+}
+.text10{
+    margin-bottom: 20px;
+
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+   
+}
+.text11{
+    margin-bottom: 20px;
+  
+    color: #FFF;
+    font-family: Mulish;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    
+}
+.text12{
+    margin-left: auto;
+    margin-right: auto;
+    width: 769px;
+    display: block;
+    justify-content: center;
+    color: #5A5A5D;
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+} 
+.footer{
+    text-align: center;
+}
+.flogo{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
